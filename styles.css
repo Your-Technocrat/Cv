@@ -1,0 +1,21 @@
+
+.topper h1{
+    background-color: aquamarine;
+    width:100%;
+    text-align: center;
+}
+
+.topper p{
+    width:100%;
+    text-align: justify;
+}
+h3{
+    background-color: goldenrod;
+    width: 50%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.hireReason{
+    text-align: justify;
+}
